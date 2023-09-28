@@ -3,11 +3,11 @@
 ## Getting the code
 If you just want to run the code:
  ```
- git clone https://github.com/cipriangal/prexSim
+ git clone https://github.com/JeffersonLab/prexsim.git
  ```
 If you want to commit changes directly to this repository (and have permissions to do so):
  ```
- git clone git@github.com:cipriangal/prexSim
+ git clone git@github.com:JeffersonLab/prexSim.git
  ```
 
 ### Workflow
